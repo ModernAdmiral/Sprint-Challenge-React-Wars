@@ -26,13 +26,21 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+    A component based framework to make web app building more seemless and easier
+
 - [ ] What does it mean to _think_ in react?
 
+    component based thinking. Helps you make code more DRY and reusable.
+
 - [ ] Describe state.
+    - state is what the component or element is doing based on a function inputed
 
 - [ ] Describe props.
+    - reusable attributes for elements in components
 
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+    - hooks that are used to inject flexible functionality/data into a compnent at a preprogrammed period of time.
 
 ## Project Set Up
 
